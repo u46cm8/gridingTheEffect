@@ -1,0 +1,17 @@
+div {
+    border-style: solid;
+    border-color: black;
+    border-radius: 18px;
+    border-width: .5px;
+    flex: 20%;
+    height: 20%;
+    
+}
+
+#flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100vh;
+
+}
+
